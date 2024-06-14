@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\bin\Debug\net8.0\BiggestOfFiveNumbers.exe
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\bin\Debug\net8.0\BiggestOfFiveNumbers.deps.json
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\bin\Debug\net8.0\BiggestOfFiveNumbers.runtimeconfig.json
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\bin\Debug\net8.0\BiggestOfFiveNumbers.dll
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\bin\Debug\net8.0\BiggestOfFiveNumbers.pdb
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\BiggestOfFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\BiggestOfFiveNumbers.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\BiggestOfFiveNumbers.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\BiggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\BiggestOfFiveNumbers.dll
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\refint\BiggestOfFiveNumbers.dll
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\BiggestOfFiveNumbers.pdb
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\BiggestOfFiveNumbers.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\BiggestOfFiveNumbers\BiggestOfFiveNumbers\obj\Debug\net8.0\ref\BiggestOfFiveNumbers.dll
